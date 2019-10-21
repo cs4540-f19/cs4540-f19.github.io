@@ -282,3 +282,15 @@ No Required Reading
 * Jim Burke, University of Washington MATH 407
 	* ["Section 1:  Linear Programming"](https://sites.math.washington.edu/~burke/crs/407/notes/section1.pdf)
 	* ["Section 2:  Simplex Algorithm"](https://sites.math.washington.edu/~burke/crs/407/notes/section2.pdf)
+
+
+(Tu 10/22/19) **Lecture #15: Zero-sum Games and the Minimax Theorem**
+
+*Required Preparation before Class*
+
+* Thomas S. Ferguson, [Game Theory](https://www.math.ucla.edu/~tom/Game_Theory/mat.pdf)
+	- Sections 1-1.4, pages II-4 to II-7
+	- Sections 2-2.2, pages II-9 to II-11
+	- Sections 4-4.2, pages II-35 to (beginning of) II-38
+
+
