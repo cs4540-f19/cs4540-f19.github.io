@@ -293,4 +293,9 @@ No Required Reading
 	- Sections 2-2.2, pages II-9 to II-11
 	- Sections 4-4.2, pages II-35 to (beginning of) II-38
 
+*Additional Resources*
+
+* Eric Prisner, [Game Theory through Examples](https://www.maa.org/sites/default/files/pdf/ebooks/GTE_sample.pdf)
+* Ran Canetti, [Notes on Game Theory for Cryptograph Course](http://www.cs.tau.ac.il/~canetti/f09-materials/f09-scribe7.pdf)
+	- Section 1
 
