@@ -284,7 +284,7 @@ No Required Reading
 	* ["Section 2:  Simplex Algorithm"](https://sites.math.washington.edu/~burke/crs/407/notes/section2.pdf)
 
 
-(Tu 10/22/19) **Lecture #15: Zero-sum Games and the Minimax Theorem**
+(Tu 10/22/19) **Lecture #15: Zero-sum Games and the Minimax Theorem** [Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture15_duality_and_game_theory.ipynb)
 
 *Required Preparation before Class*
 
