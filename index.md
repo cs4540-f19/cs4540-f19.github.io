@@ -299,3 +299,14 @@ No Required Reading
 * Ran Canetti, [Notes on Game Theory for Cryptograph Course](http://www.cs.tau.ac.il/~canetti/f09-materials/f09-scribe7.pdf)
 	- Section 1
 
+
+(Th 10/29/18) **Lecture #16:  Boosting** 
+
+
+*Required Preparation before Class*
+* [The Boosting Approach to Machine Learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/boosting-survey.pdf)
+  + You only need to read pages 1-5
+
+*Additional Reading*
+* [Boosting](https://www.cs.princeton.edu/courses/archive/spr08/cos511/scribe_notes/0303.pdf)
+
