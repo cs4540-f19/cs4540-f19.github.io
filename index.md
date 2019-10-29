@@ -300,7 +300,7 @@ No Required Reading
 	- Section 1
 
 
-(Th 10/29/18) **Lecture #16:  Boosting** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture17_boosting.ipynb))
+(Th 10/29/18) **Lecture #17:  Boosting** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture17_boosting.ipynb))
 
 
 *Required Preparation before Class*
@@ -309,4 +309,11 @@ No Required Reading
 
 *Additional Reading*
 * [Boosting](https://www.cs.princeton.edu/courses/archive/spr08/cos511/scribe_notes/0303.pdf)
+
+
+(Th 10/29/18) **Lecture #18:  Online Learning for Solving Games and LPs** 
+
+*Required Preparation before Class*
+* Elad Hazan, [Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf) book
+	- Chapter 8.0, 8.1, 8.3, 8.4 (you can skip 8.2)
 
