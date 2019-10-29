@@ -300,7 +300,7 @@ No Required Reading
 	- Section 1
 
 
-(Th 10/29/18) **Lecture #16:  Boosting** 
+(Th 10/29/18) **Lecture #16:  Boosting** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture17_boosting.ipynb))
 
 
 *Required Preparation before Class*
