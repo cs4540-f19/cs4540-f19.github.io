@@ -311,7 +311,7 @@ No Required Reading
 * [Boosting](https://www.cs.princeton.edu/courses/archive/spr08/cos511/scribe_notes/0303.pdf)
 
 
-(Th 10/29/18) **Lecture #18:  Online Learning for Solving Games and LPs** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture17_game_approximation.ipynb))
+(Th 10/29/18) **Lecture #18:  Online Learning for Solving Games and LPs** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture18_game_approximation.ipynb))
 
 *Required Preparation before Class*
 * Elad Hazan, [Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf) book
