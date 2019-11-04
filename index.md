@@ -317,3 +317,51 @@ No Required Reading
 * Elad Hazan, [Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf) book
 	- Chapter 8.0, 8.1, 8.3, 8.4 (you can skip 8.2)
 
+(Tu 11/5/19) **Lecture #19:  Second-order Methods & Fixed Point Iteration** ([F18 Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture12_fixed-points-newton.ipynb))
+
+*Required Preparation before Class*
+* Sauer, [*Numerical Analysis*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1371975) (posted to Canvas)
+	* §1.1 The Bisection Method (Pages 25-29)
+	* §1.2 Fixed Point Iteration (Pages 30-40)
+	* §1.4 Newton's Method (Pages 51-58)
+* Review the following topics from multivariable calculus:
+	* Multivariate Taylor's Theorem
+	* Mean / Intermediate Value Theorems
+	
+*Additional Resources*
+* Newton's Method
+	* Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), §9.5 Newton's Method
+	* Chris Hauser, ["Multivariate Newton's Method and Quasi-Newton"](http://homes.sice.indiana.edu/classes/spring2012/csci/b553-hauserk/newtons_method.pdf)
+	* Wei-Ta Chu 2014, ["Multivariate Newton's Method"](https://www.cs.ccu.edu.tw/~wtchu/courses/2014s_OPT/Lectures/Chapter%209%20Newton%27s%20Method.pdf) (slides)
+	* Ryan Tibshirani 2015, ["Newton's Method"](http://www.stat.cmu.edu/~ryantibs/convexopt-F15/lectures/14-newton.pdf) (slides)
+	* Sean Harrington, ["Solving Logistic Regression with Newton's Method"](https://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method) (blog post; we'll cover logistic regression later)
+* Newton Fractals
+	* Simon Tatham, ["Fractals Derived from Newton-Raphson Iteration"](https://www.chiark.greenend.org.uk/~sgtatham/newton/)
+	* Daniel Dreibelbis, ["Newton Fractals"](https://www.unf.edu/~ddreibel/teaching/newton/index.html)
+	* Paul Bourke, ["An Introduction to Fractals"](http://paulbourke.net/fractals/fracintro/)
+* Geoffrey Hinton, Coursera NNML, ["A Brief Overview of Hessian-Free Optimization"](https://www.youtube.com/watch?v=iJ67SnPHEnU)
+* Nykamp DQ, *Math Insight*, ["Introduction to Taylor's Theorem for Multivariable Functions"](https://mathinsight.org/taylors_theorem_multivariable_introduction)
+* Sauer, *Numerical Analysis* §1.3 briefly covers of conditioning / sensitivity, but we won't focus on these topics in class.  For a slightly more advanced treatment, see Trefethen & Bau, *Numerical Linear Algebra* §13-14.
+
+(Th 11/7/19) **Lecture #20:  Numerical Methods for Linear Systems** ([F18 Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture14_linear-systems.ipynb))
+
+*Required Preparation before Class*
+* Understand §5.1-5.3 of Shewchuk, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+* Understand the [Gershgorin Circle Theorem](https://en.wikipedia.org/wiki/Gershgorin_circle_theorem) (Wikipedia's proof isn't too bad!)
+
+*Additional Resources*
+* Golub & van Loan, *Matrix Computations*, ["§11.2:  The Classical Iterations"](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485926) (posted to Canvas)
+* Volker John, ["Ch 3:  Classical Iterative Schemes"](https://www.wias-berlin.de/people/john/LEHRE/NUMERIK_II/linsys_3.pdf)
+* Schonlieb, "Numerical Analysis" Lectures [16](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c16.pdf), [17](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c17.pdf), [18](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c18.pdf)
+* Gilbert Strang, *Mathematical Methods for Engineers*, [§6.2:  Iterative Methods](https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/readings/am62.pdf)
+
+(Tu 11/12/19) **Lecture #21:  Numerical Methods for Computing Eigenvalues** ([F18 Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture15_eigenvalues-eigenvectors.ipynb))
+
+*Required Preparation before Class*
+* Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485844) (posted to Canvas)
+	* Lecture 27:  Rayleigh Quotient, Inverse Iteration (Pages 202-210)
+	
+*Additional Resources*
+* Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485844) (posted to Canvas)
+	* Lecture 25:  Overview of Eigenvalue Algorithms (read if you want some more context about computing eigenvalues) 
+	* Lecture 28:  QR Algorithm without Shifts (we won't cover this, but the algorithm is interesting!)
