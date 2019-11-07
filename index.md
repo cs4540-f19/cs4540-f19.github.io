@@ -317,7 +317,7 @@ No Required Reading
 * Elad Hazan, [Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf) book
 	- Chapter 8.0, 8.1, 8.3, 8.4 (you can skip 8.2)
 
-(Tu 11/5/19) **Lecture #19:  Second-order Methods & Fixed Point Iteration** ([F18 Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture12_fixed-points-newton.ipynb))
+(Tu 11/5/19) **Lecture #19:  Second-order Methods & Fixed Point Iteration** ([Lecture Slides]https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture19_fixed_points_newtons_method.ipynb))
 
 *Required Preparation before Class*
 * Sauer, [*Numerical Analysis*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1371975) (posted to Canvas)
@@ -343,7 +343,7 @@ No Required Reading
 * Nykamp DQ, *Math Insight*, ["Introduction to Taylor's Theorem for Multivariable Functions"](https://mathinsight.org/taylors_theorem_multivariable_introduction)
 * Sauer, *Numerical Analysis* §1.3 briefly covers of conditioning / sensitivity, but we won't focus on these topics in class.  For a slightly more advanced treatment, see Trefethen & Bau, *Numerical Linear Algebra* §13-14.
 
-(Th 11/7/19) **Lecture #20:  Numerical Methods for Linear Systems** ([F18 Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture14_linear-systems.ipynb))
+(Th 11/7/19) **Lecture #20:  Numerical Methods for Linear Systems** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture20_linear-systems.ipynb))
 
 *Required Preparation before Class*
 * Understand §5.1-5.3 of Shewchuk, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
