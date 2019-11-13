@@ -365,3 +365,12 @@ No Required Reading
 * Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485844) (posted to Canvas)
 	* Lecture 25:  Overview of Eigenvalue Algorithms (read if you want some more context about computing eigenvalues) 
 	* Lecture 28:  QR Algorithm without Shifts (we won't cover this, but the algorithm is interesting!)
+
+
+
+
+(Th 11/8/18) **Lecture #22:  Clustering** ([F18 Lecture Slides ](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture20_clustering.ipynb))
+
+*Required Preparation before Class*
+* Lior Rokach and Oded Maimon [Clustering Methods](https://www.cs.swarthmore.edu/~meeden/cs63/s16/reading/Clustering.pdf)
+    * Read Sections 1-4, and Section 5.2
