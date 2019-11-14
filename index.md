@@ -369,7 +369,7 @@ No Required Reading
 
 
 
-(Th 11/14/19) **Lecture #22:  Clustering** ([F18 Lecture Slides ](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture20_clustering.ipynb))
+(Th 11/14/19) **Lecture #22:  Clustering** ([F18 Lecture Slides ](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture22_clustering.ipynb))
 
 *Required Preparation before Class*
 * Lior Rokach and Oded Maimon [Clustering Methods](https://www.cs.swarthmore.edu/~meeden/cs63/s16/reading/Clustering.pdf)
