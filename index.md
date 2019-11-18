@@ -374,3 +374,12 @@ No Required Reading
 *Required Preparation before Class*
 * Lior Rokach and Oded Maimon [Clustering Methods](https://www.cs.swarthmore.edu/~meeden/cs63/s16/reading/Clustering.pdf)
     * Read Sections 1-4, and Section 5.2
+    
+    
+
+(Tu 11/19/19) **Lecture #23:  Random Sampling**
+
+*Required Preparation before Class*
+* Review probability basics (for example, these [notes](http://cs229.stanford.edu/section/cs229-prob.pdf), [slides](https://www.cs.cmu.edu/~aarti/Class/10701/recitation/prob_review.pdf), or this [blog post](https://ermongroup.github.io/cs228-notes/preliminaries/probabilityreview/))
+* Lior Rokach and Oded Maimon [Clustering Methods](https://www.cs.swarthmore.edu/~meeden/cs63/s16/reading/Clustering.pdf)
+    * Read Sections 1-4, and Section 5.2
