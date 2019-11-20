@@ -381,3 +381,11 @@ No Required Reading
 
 *Required Preparation before Class*
 * Review probability basics (for example, these [notes](http://cs229.stanford.edu/section/cs229-prob.pdf), [slides](https://www.cs.cmu.edu/~aarti/Class/10701/recitation/prob_review.pdf), or this [blog post](https://ermongroup.github.io/cs228-notes/preliminaries/probabilityreview/))
+
+(Th 11/21/19) **Lecture #24:  Markov Chains and Sampling** 
+
+*Required Preparation before Class*
+* Tim Roughgarden & Gregory Valiant [Markov Chain Monte Carlo](https://web.stanford.edu/class/cs168/l/l14.pdf)
+    * All of it!
+    
+    
