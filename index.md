@@ -377,7 +377,7 @@ No Required Reading
     
     
 
-(Tu 11/19/19) **Lecture #23:  Random Sampling**
+(Tu 11/19/19) **Lecture #23:  Random Sampling** (CANCELLED!)
 
 *Required Preparation before Class*
 * Review probability basics (for example, these [notes](http://cs229.stanford.edu/section/cs229-prob.pdf), [slides](https://www.cs.cmu.edu/~aarti/Class/10701/recitation/prob_review.pdf), or this [blog post](https://ermongroup.github.io/cs228-notes/preliminaries/probabilityreview/))
