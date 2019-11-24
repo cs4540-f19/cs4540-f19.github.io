@@ -387,5 +387,19 @@ No Required Reading
 *Required Preparation before Class*
 * Tim Roughgarden & Gregory Valiant [Markov Chain Monte Carlo](https://web.stanford.edu/class/cs168/l/l14.pdf)
     * All of it!
-    
-    
+
+
+(Tu 11/26/19) **Lecture #25:  Stationary Distributions, and Mixing Times, of Markov Chains** 
+
+*Required Preparation before Class*
+* None! This lecture will have some content, but will mostly be fun
+
+*Additional Resources*
+* If you are interested in the concept of Markov Chains, and want to learn more about their connection to algorithms and complexity, I suggest this book:
+	- Levin, Peres, Wilmer [Markov Chains and Mixing Time](https://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf)
+
+(Tu 12/3/19) **Final Exam Review Session by Ben Bray**
+
+Come with questions!
+
+
